@@ -1,23 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec  6 05:44:36 2018
-
-@author: vishw
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec  5 15:45:16 2018
-
-@author: vishw
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec  1 14:29:03 2018
-
-@author: vishw
-"""
 
 # -*- coding: utf-8 -*-
 """
